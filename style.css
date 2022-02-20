@@ -1,0 +1,10 @@
+h1{
+    text-align:left;
+}
+.card img{
+width: 300px;
+}
+.szöveg{
+    font-size:medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
