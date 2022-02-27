@@ -1,5 +1,5 @@
 body{
-    background-color: gray;
+    background-color: lightgray;
 }
 h1{
     text-align:left;
@@ -15,3 +15,8 @@ width: 300px;
     width: 300px;
     height: 300px;
 }
+a{
+    color: lightcoral;
+    text-decoration: none;
+}
+
