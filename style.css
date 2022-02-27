@@ -19,4 +19,6 @@ a{
     color: lightcoral;
     text-decoration: none;
 }
-
+a:hover{
+    color: black;
+}
