@@ -23,4 +23,9 @@ a{
 a:hover{
     color: black;
 }
+.ratio{
 
+}
+.card{
+    border-radius: 50px;
+}
